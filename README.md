@@ -1,1 +1,1 @@
-# GitandGitHub.md
+# Git and GitHub
